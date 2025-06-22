@@ -1,0 +1,7 @@
+Django>=4.0
+djangorestframework
+python-decouple
+djangorestframework-simplejwt
+celery
+redis
+python-telegram-bot==13.15
